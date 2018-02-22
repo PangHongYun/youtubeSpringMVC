@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.AbstractController;
 
-
+//BY extending  a basic controller class
 public class HelloController extends AbstractController{
 	
 	@Override
